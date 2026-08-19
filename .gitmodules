@@ -1,0 +1,9 @@
+[submodule "MAPA-Backend"]
+	path = MAPA-Backend
+	url = https://github.com/ricardosb25/MAPA-Backend.git
+[submodule "MAPA-Frontend"]
+	path = MAPA-Frontend
+	url = https://github.com/ricardosb25/MAPA-Frontend.git
+[submodule "MAPA-Docs"]
+	path = MAPA-Docs
+	url = https://github.com/ricardosb25/MAPA-Docs
